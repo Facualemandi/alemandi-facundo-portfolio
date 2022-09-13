@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/alemandi-facundo-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/alemandi-facundo-portfolio/static/js/main.2fc5cc50.js",
+    "static/media/Anime.png": "/alemandi-facundo-portfolio/static/media/Anime.0ea6eae5f635a04f9d01.png",
+    "static/media/Movies.png": "/alemandi-facundo-portfolio/static/media/Movies.443263c8ce43109c773e.png",
+    "static/media/Technology.png": "/alemandi-facundo-portfolio/static/media/Technology.3ec59067c203db29a59f.png",
+    "static/media/Alfareria.png": "/alemandi-facundo-portfolio/static/media/Alfareria.1011be8161be63c0eb14.png",
+    "static/media/Aerlolab.png": "/alemandi-facundo-portfolio/static/media/Aerlolab.850c1263d7763a4ed0a3.png",
+    "static/media/Portfolio.png": "/alemandi-facundo-portfolio/static/media/Portfolio.7c859a40da142746876d.png",
+    "static/media/FacuAlemandi.png": "/alemandi-facundo-portfolio/static/media/FacuAlemandi.2818f001572e033ece28.png",
+    "static/media/REACT.png": "/alemandi-facundo-portfolio/static/media/REACT.a544fd8cf64d82898e91.png",
+    "static/media/REACT-QUERY.png": "/alemandi-facundo-portfolio/static/media/REACT-QUERY.6424060f6251d104a921.png",
+    "static/media/STYLED-COMPONENTS.png": "/alemandi-facundo-portfolio/static/media/STYLED-COMPONENTS.1d72a347529182d43481.png",
+    "static/media/HTML.png": "/alemandi-facundo-portfolio/static/media/HTML.df69503917a05a968e58.png",
+    "static/media/JS.png": "/alemandi-facundo-portfolio/static/media/JS.286d4c70d4c104242aba.png",
+    "index.html": "/alemandi-facundo-portfolio/index.html",
+    "static/media/CSS.svg": "/alemandi-facundo-portfolio/static/media/CSS.a8206a81198f1f96a294a6c0cddf09bc.svg",
+    "main.e6c13ad2.css.map": "/alemandi-facundo-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.2fc5cc50.js.map": "/alemandi-facundo-portfolio/static/js/main.2fc5cc50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2fc5cc50.js"
+  ]
+}
