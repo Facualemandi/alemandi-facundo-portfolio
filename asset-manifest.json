@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alemandi-facundo-portfolio/static/css/main.e6c13ad2.css",
+    "main.css": "/alemandi-facundo-portfolio/static/css/main.31d6cfe0.css",
     "main.js": "/alemandi-facundo-portfolio/static/js/main.2fc5cc50.js",
     "static/media/Anime.png": "/alemandi-facundo-portfolio/static/media/Anime.0ea6eae5f635a04f9d01.png",
     "static/media/Movies.png": "/alemandi-facundo-portfolio/static/media/Movies.443263c8ce43109c773e.png",
@@ -16,11 +16,10 @@
     "static/media/JS.png": "/alemandi-facundo-portfolio/static/media/JS.286d4c70d4c104242aba.png",
     "index.html": "/alemandi-facundo-portfolio/index.html",
     "static/media/CSS.svg": "/alemandi-facundo-portfolio/static/media/CSS.a8206a81198f1f96a294a6c0cddf09bc.svg",
-    "main.e6c13ad2.css.map": "/alemandi-facundo-portfolio/static/css/main.e6c13ad2.css.map",
     "main.2fc5cc50.js.map": "/alemandi-facundo-portfolio/static/js/main.2fc5cc50.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
+    "static/css/main.31d6cfe0.css",
     "static/js/main.2fc5cc50.js"
   ]
 }
